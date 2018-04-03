@@ -279,7 +279,7 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInput
 463516d5b5fe8e67a0a24c48f2095b04 UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInputModule
-1c3a20b632321c739d89e82199d5ad12 Assembly-CSharp.dll:.GPS
+b20304481c71413c15ac4ad186b6465c Assembly-CSharp.dll:.GPS
 f79021ade606f0f22278d2928bdcf746 Assembly-CSharp.dll:.GPSManager
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.PhoneCamera
 58da5fc93e32b6d12c8416746afb7afb Assembly-CSharp.dll:.WebCam

@@ -10,6 +10,6 @@ public class GPSManager : MonoBehaviour
     	
 	void Update ()
     {
-        textGps.text = "Latitude : " + GPS.Instance.latitude + "\nLongitude : " + GPS.Instance.longitude;
+        textGps.text = "Latitude : " + GPS.Instance.latitude + "\nLongitude : " + GPS.Instance.longitude + "\n\n" + GPS.Instance.result;
 	}
 }
